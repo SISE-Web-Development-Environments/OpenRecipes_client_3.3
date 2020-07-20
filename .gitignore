@@ -8,6 +8,8 @@ logs
 pids
 *.pid
 *.seed
+sqriptSql.sql
+TDL.txt
 
 # Dependency directory
 node_modules
