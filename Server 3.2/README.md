@@ -1,4 +1,4 @@
-## Server
+## Server 3.2 with Updates
   * Using an external API. [spoonacular](https://spoonacular.com/food-api/docs)
   * Using Microsoft cloud services Azure - Data base.
 ## API
